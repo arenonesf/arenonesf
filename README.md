@@ -1,4 +1,4 @@
-# <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhsczlqcDRqMzE3eGxweHJlajR1bG85MzdmdHY4a29ha3ZqeGV6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HeXxzVOv63qQnz98yf/giphy.gif" width="120" /> 👋 I'm Alejandro Reñones !
+# <img src ="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhsczlqcDRqMzE3eGxweHJlajR1bG85MzdmdHY4a29ha3ZqeGV6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HeXxzVOv63qQnz98yf/giphy.gif" width="120" /> 👋 I'm Alejandro Reñones!
 
 # 👨‍💻 About me
  🎮 Game Development Student | Passionate Programmer.<br>✨ Enthusiast of Graphics Programming and a big fan of C++.<br>💻 Currently, I’m honing my skills in C++, Graphics & Engine Programming, while utilizing Unity and Unreal Engine.<br>🌱 Constantly learning.<br>
